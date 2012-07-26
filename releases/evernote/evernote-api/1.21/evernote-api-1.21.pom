@@ -5,6 +5,5 @@
   <groupId>evernote</groupId>
   <artifactId>evernote-api</artifactId>
   <version>1.21</version>
-  <packaging>sources</packaging>
   <description>POM was created from install:install-file</description>
 </project>
